@@ -1,0 +1,52 @@
+2024-01-25 09:50:11 - Starting deployment script
+2024-01-25 09:50:11 - Creating deployment for Jellyfin image
+2024-01-25 09:50:12 - Exposing deployment as NodePort service on port 8080
+2024-01-25 09:50:12 - Deployment script completed
+2024-01-25 10:21:09 - Starting deployment script
+2024-01-25 10:21:09 - Creating deployment for jellyfin/jellyfin image
+2024-01-25 10:21:09 - Exposing deployment as NodePort service on port 8080
+2024-01-25 10:21:09 - Deployment script completed
+2024-01-25 10:33:09 - Starting deployment script
+2024-01-25 10:33:09 - Creating deployment for 7856 image
+2024-01-25 10:33:09 - Exposing deployment as NodePort service on port 
+2024-01-25 10:33:09 - Deployment script completed
+2024-01-25 10:36:06 - Starting deployment script
+2024-01-25 10:36:06 - Creating deployment for 7856 image
+2024-01-25 10:36:07 - Exposing deployment as NodePort service on port 
+2024-01-25 10:36:07 - Deployment script completed
+2024-01-25 10:37:25 - Starting deployment script
+2024-01-25 10:37:25 - Creating deployment for null image
+2024-01-25 10:37:25 - Exposing deployment as NodePort service on port 4556
+2024-01-25 10:37:26 - Deployment script completed
+2024-01-25 10:39:18 - Starting deployment script
+2024-01-25 10:39:18 - Creating deployment for jellyfin image
+2024-01-25 10:39:18 - Exposing deployment as NodePort service on port 8546
+2024-01-25 10:39:18 - Deployment script completed
+2024-01-25 10:44:29 - Starting deployment script
+2024-01-25 10:44:29 - Creating deployment for jellyfin image
+2024-01-25 10:44:29 - Exposing deployment as NodePort service on port 8080
+2024-01-25 10:44:29 - Deployment script completed
+2024-01-25 10:46:21 - Starting deployment script
+2024-01-25 10:46:21 - Creating deployment for pihole image
+2024-01-25 10:46:21 - Exposing deployment as NodePort service on port 8080
+2024-01-25 10:46:21 - Deployment script completed
+2024-01-25 10:49:08 - Starting deployment script
+2024-01-25 10:49:08 - Creating deployment for pihole image
+2024-01-25 10:49:08 - Exposing deployment as NodePort service on port 80
+2024-01-25 10:49:08 - Deployment script completed
+2024-01-25 10:59:21 - Starting deployment script
+2024-01-25 10:59:22 - Creating deployment for camunda image
+2024-01-25 10:59:22 - Exposing deployment as NodePort service on port 8080
+2024-01-25 10:59:22 - Deployment script completed
+2024-01-25 11:02:47 - Starting deployment script
+2024-01-25 11:02:47 - Creating deployment for octoprint image
+2024-01-25 11:02:47 - Exposing deployment as NodePort service on port 8080
+2024-01-25 11:02:47 - Deployment script completed
+2024-01-25 11:03:55 - Starting deployment script
+2024-01-25 11:03:55 - Creating deployment for octoprint image
+2024-01-25 11:03:55 - Exposing deployment as NodePort service on port 8080
+2024-01-25 11:03:56 - Deployment script completed
+2024-01-25 11:14:26 - Starting deployment script
+2024-01-25 11:14:26 - Creating deployment for octoprint image
+2024-01-25 11:14:26 - Exposing deployment as NodePort service on port 5000
+2024-01-25 11:14:26 - Deployment script completed

@@ -1,0 +1,29 @@
+# Virtual environment
+script-runner/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# Flask instance folder
+instance/
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+logs/
+*.log
+
+# Database
+db.sqlite
+*.db
+
+# Development tools
+.vscode/
+.idea/
